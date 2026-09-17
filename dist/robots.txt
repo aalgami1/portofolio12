@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://muhammadalmahdi.dev/sitemap.xml
-
